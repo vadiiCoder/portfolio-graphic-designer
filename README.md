@@ -77,12 +77,11 @@ This portfolio includes designs such as:
 
 # 📸 Preview
 
-Add screenshots of your website here.
+Live view of my website here.
 
-Example:
+<img width="1123" height="626" alt="Screenshot 2026-05-08 121547" src="https://github.com/user-attachments/assets/10af54c6-c510-4a5e-bc5e-6aedbb482271" />
 
-```md
-<img width="1123" height="626" alt="image" src="https://github.com/user-attachments/assets/8f824e8f-7163-453b-9b5d-47bce94982df" />
+
 
 ```
 
